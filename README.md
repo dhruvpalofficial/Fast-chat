@@ -7,8 +7,6 @@
 
 A modern, real-time chat application built with Flutter and Firebase. Experience seamless messaging with beautiful animations and secure authentication.
 
-![Flash Chat Preview](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Flash+Chat+App+Preview)
-
 ## ✨ Features
 
 - 🔐 **Secure Authentication**: User registration and login with Firebase Auth
@@ -18,13 +16,7 @@ A modern, real-time chat application built with Flutter and Firebase. Experience
 - 📱 **Cross-Platform**: Works on iOS, Android, Web, and Desktop
 - 🚀 **Fast & Responsive**: Optimized performance with Flutter
 
-## 📸 Screenshots
-
-| Welcome Screen                                                             | Login Screen                                                           | Chat Screen                                                          |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Welcome](https://via.placeholder.com/200x400/4A90E2/FFFFFF?text=Welcome) | ![Login](https://via.placeholder.com/200x400/4A90E2/FFFFFF?text=Login) | ![Chat](https://via.placeholder.com/200x400/4A90E2/FFFFFF?text=Chat) |
-
-## 🛠️ Installation
+## ️ Installation
 
 ### Prerequisites
 
