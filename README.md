@@ -116,12 +116,6 @@ If you have any questions or issues, please open an issue on GitHub or contact t
 - 📱 **Cross-Platform**: Works on iOS, Android, Web, and Desktop
 - 🚀 **Fast & Responsive**: Optimized performance with Flutter
 
-## 📸 Screenshots
-
-| Welcome Screen                                                             | Login Screen                                                           | Chat Screen                                                          |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Welcome](https://via.placeholder.com/200x400/4A90E2/FFFFFF?text=Welcome) | ![Login](https://via.placeholder.com/200x400/4A90E2/FFFFFF?text=Login) | ![Chat](https://via.placeholder.com/200x400/4A90E2/FFFFFF?text=Chat) |
-
 ## 🛠️ Installation
 
 ### Prerequisites
