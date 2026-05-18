@@ -7,7 +7,7 @@ A modern, real-time chat application built with Flutter and Firebase. Experience
 - 🔐 **Secure Authentication**: User registration and login with Firebase Auth
 - 💬 **Real-time Messaging**: Instant message delivery with Cloud Firestore
 - 🎨 **Beautiful UI**: Modern design with smooth animations using Animated Text Kit
-- 🌙 **Dark Theme**: Eye-friendly dark mode interface
+- 🌙 **Dark Theme**: Eye-friendly dark mode interface 
 - 📱 **Cross-Platform**: Works on iOS, Android, Web, and Desktop
 - 🚀 **Fast & Responsive**: Optimized performance with Flutter
 
